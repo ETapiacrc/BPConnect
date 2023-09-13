@@ -1,0 +1,3 @@
+[submodule "BPConnect.Database"]
+	path = BPConnect.Database
+	url = https://acalvillomx@dev.azure.com/acalvillomx/BPConnect/_git/BPConnect.Database
